@@ -1,8 +1,11 @@
 <h1 align="center">👋 Hi, I’m <strong>Saadiallakh "Sasha" Normatov</strong></h1>
-- 👀 I’m interested in **Chemistry & IT**
-- 🌱 I’m currently working on **ML & NN models training to boost QC calculations**
-- 📫 How to reach me: normatov@infochemistry.ru & normatovsaadi7@gmail.com
-- ⚡ Motto: **Good Thoughts, Good Words, Good Deeds**
+
+<ul>
+  <li>👀 I’m interested in <strong>Chemistry & IT</strong></li>
+  <li>🌱 I’m currently working on <strong>ML & NN models training to boost QC calculations</strong></li>
+  <li>📫 How to reach me: normatov@infochemistry.ru & normatovsaadi7@gmail.com</li>
+  <li>⚡ Motto: <strong>Good Thoughts, Good Words, Good Deeds</strong></li>
+</ul>
 
 Check my: 
 [ORCID](https://orcid.org/0009-0004-4834-7713)
