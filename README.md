@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Saadiallakh "Sasha" Normatov**
 - 👀 I’m interested in **Chemistry and IT**
-- 🌱 I’m currently working on **ML | NN models training to boost QC calculations**
-- 📫 How to reach me: normatov@infochemistry.ru ; normatov@infochemistry.itmo.ru ; normatovsaadi7@gmail.com
+- 🌱 I’m currently working on **ML & NN models training to boost QC calculations**
+- 📫 How to reach me: normatov@infochemistry.ru & normatovsaadi7@gmail.com
 - ⚡ Motto: **Good Thoughts, Good Words, Good Deeds**
 
 <!---
