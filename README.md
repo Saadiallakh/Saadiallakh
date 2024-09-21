@@ -5,7 +5,7 @@
 📫 How to reach me: normatov@infochemistry.ru & normatovsaadi7@gmail.com  
 ⚡ Motto: **Good Thoughts, Good Words, Good Deeds**  
 
-Check my:
+Check my:  
 [ORCID](https://orcid.org/0009-0004-4834-7713)
 
 <!---
