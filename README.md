@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m <strong>Saadiallakh Normatov</strong></h1>
 
 👀 I’m interested in **Chemistry & IT**  
-🌱 I’m currently working on **AI training to boost QC calculations**  
+🌱 I’m currently working on **AI training to accelerate QC calculations**  
 📫 How to reach me: normatov@infochemistry.ru & normatovsaadi7@gmail.com  
 ⚡ Motto: **Good Thoughts, Good Words, Good Deeds**  
 
