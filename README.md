@@ -6,9 +6,9 @@
 ⚡ Motto: **Good Thoughts, Good Words, Good Deeds**  
 
 Check my:  
-[ORCID](https://orcid.org/0009-0004-4834-7713)
-[ResearchGate](https://www.researchgate.net/profile/Saadiallakh-Normatov)
-[Google Scholar](https://scholar.google.com/citations?user=3OSmM_EAAAAJ&hl=ru&oi=ao)
+[ORCID](https://orcid.org/0009-0004-4834-7713)  
+[ResearchGate](https://www.researchgate.net/profile/Saadiallakh-Normatov)  
+[Google Scholar](https://scholar.google.com/citations?user=3OSmM_EAAAAJ&hl=ru&oi=ao)  
 
 
 <!---
