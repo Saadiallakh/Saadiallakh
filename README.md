@@ -2,7 +2,7 @@
 
 👀 I’m interested in **Chemistry & IT**  
 🌱 I’m currently working on **AI training to accelerate QC calculations**  
-📫 How to reach me: normatov@infochemistry.ru & normatovsaadi7@gmail.com  
+📫 How to reach me: saadiallakh.normatov@mpi-dortmund.mpg.de & normatovsaadi7@gmail.com  
 ⚡ Motto: **Good Thoughts, Good Words, Good Deeds**  
 
 Check my:  
