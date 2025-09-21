@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m <strong>Saadiallakh Normatov</strong></h1>
 
 👀 I’m interested in **Chemistry & IT**  
-🌱 I’m currently working on **AI training to accelerate QC calculations**  
+🌱 I’m currently working on **AI training to predict molecular properties and accelerate materials discovery**  
 📫 How to reach me: saadiallakh.normatov@mpi-dortmund.mpg.de & normatovsaadi7@gmail.com  
 ⚡ Motto: **Good Thoughts, Good Words, Good Deeds**  
 
