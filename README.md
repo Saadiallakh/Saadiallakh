@@ -3,7 +3,7 @@
 👀 I’m interested in **Chemistry & IT**  
 🌱 I’m currently working on **ANN training to predict molecular properties and accelerate materials discovery**  
 📫 How to reach me: saadiallakh.normatov@mpi-dortmund.mpg.de & saadiallakh.normatov@tu-dortmund.de  
-⚡ Motto: **Good Thoughts, Good Words, Good Deeds**  
+⚡ Motto: **Good Thoughts, Good Deeds, Good Words**    
 
 Check my:  
 [ORCID](https://orcid.org/0009-0004-4834-7713)  
