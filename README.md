@@ -10,6 +10,7 @@ Check my:
 [ResearchGate](https://www.researchgate.net/profile/Saadiallakh-Normatov)  
 [Google Scholar](https://scholar.google.com/citations?user=3OSmM_EAAAAJ&hl=ru&oi=ao)  
 [Facebook](https://www.facebook.com/share/1BUNRSZFrN/?mibextid=wwXIfr)  
+[Instagram](https://www.instagram.com/saadiallah?igsh=MWV5ZGhvbHBtcTVvaw==)  
 
 
 <!---
