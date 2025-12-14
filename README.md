@@ -11,6 +11,7 @@ Check my:
 [Google Scholar](https://scholar.google.com/citations?user=3OSmM_EAAAAJ&hl=ru&oi=ao)  
 [Facebook](https://www.facebook.com/share/1BUNRSZFrN/?mibextid=wwXIfr)  
 [Instagram](https://www.instagram.com/saadiallah?igsh=MWV5ZGhvbHBtcTVvaw==)  
+[LinkedIn](www.linkedin.com/in/saadiallakh-normatov-93523a394)  
 
 
 <!---
